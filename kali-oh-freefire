@@ -15,7 +15,7 @@ clear
 echo ""
 echo ""
 echo -e "\e[32m                ============================================\e[m "
-echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Join us on Telegram : \e[95m@OnlineHacking\e[31m [\e[32m★\e[31m]\e[m "
+echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Join us on YouTube : \e[95mSamu330\e[31m [\e[32m★\e[31m]\e[m "
 echo -e "\e[32m                ============================================\e[m " 
 # check the internet connectivity 
 connection() {
@@ -41,7 +41,7 @@ done
 shark_logo() {
 clear
 echo -e "\e[92m
-SUMAN ©\e[34m
+Sam y Perry ©\e[36m
          ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
         ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
         ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗      
@@ -58,31 +58,39 @@ SUMAN ©\e[34m
 ONLINE HACKING			  							  							  
           \e[m"
 	  
-echo -e " \e[36mWebsite : \e[0m\e[92mwww.onlinehacking.xyz \e[0m\n"
+echo -e "\e[92m
+Sam y Perry ©\e[36m:
+ '######:::::'###::::'##::::'##:'##::::'##::'#######:::'#######::::'#####:::
+'##... ##:::'## ##::: ###::'###: ##:::: ##:'##.... ##:'##.... ##::'##.. ##::
+ ##:::..:::'##:. ##:: ####'####: ##:::: ##:..::::: ##:..::::: ##:'##:::: ##:
+. ######::'##:::. ##: ## ### ##: ##:::: ##::'#######:::'#######:: ##:::: ##:
+:..... ##: #########: ##. #: ##: ##:::: ##::...... ##::...... ##: ##:::: ##:
+'##::: ##: ##.... ##: ##:.:: ##: ##:::: ##:'##:::: ##:'##:::: ##:. ##:: ##::
+. ######:: ##:::: ##: ##:::: ##:. #######::. #######::. #######:::. #####:::
+:......:::..:::::..::..:::::..:::.......::::.......::::.......:::::.....::::			  							  							  
+          \e[m"
+	  
   
-echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/OnlineHacKing \e[0m\n"
+echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/Samu330 \e[0m\n"
 
-echo -e " \e[97mTelegram : \e[0m\e[95mhttps://t.me/OnlineHacKing \e[0m\n"
+echo -e " \e[34mFacebook Page : \e[0m\e[31mhttps://www.facebook.com/tupapi.samu330 \e[0m\n"
 
-echo -e " \e[34mFacebook Page : \e[0m\e[31mhttps://www.facebook.com/AdminOnlineHacKing \e[0m\n"
-
-echo -e " \e[93mInstagram : \e[0m\e[92mhttps://www.instagram.com/suman333mondal_/ \e[0m\n"
 
 }
 
 
 echo 
 echo 
-echo -e "\e[31m[\e[32m★\e[31m]\e[32mThis Tool is only educational purpose and we are not responsible for kind of illegal activity done by this tool\e[m "
+echo -e "\e[31m[\e[32m★\e[31m]\e[32mEsta herramienta es solo para fines educativos y no somos responsables del tipo de actividad ilegal realizada por esta herramienta.\e[m "
 sleep 2
 echo 
 echo 
-echo -en "\e[31m[\e[32m*\e[31m]\e[32m Accepted This Notice (y/n)? \e[m "
+echo -en "\e[31m[\e[32m*\e[31m]\e[32m Aceptas los terminos y Aceptas sucribirte al canal de Samu? (y/n) \e[m "
 read ans
 if [ "$ans" != "${ans#[Yy]}" ]; then
 echo 
 echo 
-echo -e "\e[92m>>\e[96m GAME PHISHING TOOL FOR ONLINE HACKING \e[m "
+echo -e "\e[92m>>\e[96m GAME PHISHING TOOL FOR ONLINE HACKING & Samu330\e[m "
 tput civis
 sleep 4
 tput cnorm
@@ -190,7 +198,7 @@ echo "";
 spinner1 () {
 local pid=$!
 local delay=0.25
-local spinner=( '█■■■■' '■█■■■' '■■█■■' '■■■█■' '■■■■█' )
+local spinner=( 'S' 'Sa' 'Sam' 'Samu' 'Samu3' 'Samu33' 'Samu330' ' ')
 
 while [ "$(ps a | awk '{print $1}' | grep $pid)" ]; do
 
@@ -224,13 +232,15 @@ echo -e "\e[33m
   ██║     ██║  ██║███████╗███████╗    ██║     ██║██║  ██║███████╗ 
   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ \e[93;1m v 2.0\e[0m\n"  
 echo -e "\e[95m
-         ██████╗ ███╗   ██╗██╗     ██╗███╗   ██╗███████╗    
-        ██╔═══██╗████╗  ██║██║     ██║████╗  ██║██╔════╝    
-        ██║   ██║██╔██╗ ██║██║     ██║██╔██╗ ██║█████╗      
-        ██║   ██║██║╚██╗██║██║     ██║██║╚██╗██║██╔══╝      
-        ╚██████╔╝██║ ╚████║███████╗██║██║ ╚████║███████╗    
-         ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝    
-                                                            
+ ____                                          __        __        __     
+/\  _`\                                      /'__`\    /'__`\    /'__`\   
+\ \,\L\_\      __       ___ ___     __  __  /\_\L\ \  /\_\L\ \  /\ \/\ \  
+ \/_\__ \    /'__`\   /' __` __`\  /\ \/\ \ \/_/_\_<_ \/_/_\_<_ \ \ \ \ \ 
+   /\ \L\ \ /\ \L\.\_ /\ \/\ \/\ \ \ \ \_\ \  /\ \L\ \  /\ \L\ \ \ \ \_\ \
+   \ `\____\\ \__/.\_\\ \_\ \_\ \_\ \ \____/  \ \____/  \ \____/  \ \____/
+    \/_____/ \/__/\/_/ \/_/\/_/\/_/  \/___/    \/___/    \/___/    \/___/ 
+                                                                          
+                                                                             
     ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗   
     ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝   
     ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗  
@@ -238,11 +248,11 @@ echo -e "\e[95m
     ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝  
     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  \e[95;1m \e[0m\n"
     
-    echo -e " \e[36mOriginal GitHub : \e[0m\e[92mhttps://github.com/OnlineHacKing/FreeFire-Phishing \e[0m\n"
+    echo -e " \e[36mOriginal GitHub : \e[0m\e[92mhttps://github.com/Samu330/hackFFps \e[0m\n"
     
 echo ""
 echo -e $'\e[1;32m        =======================================         \e[0m'
-echo -e $'        \e[1;37;41m    c r e a t e d  b y  S u m a n    \e[m '
+echo -e $'        \e[1;37;41m    c r e a t e d  b y  S a m u    \e[m '
 echo -e $'\e[1;32m        =======================================           \e[0m '
 echo ""
 banner(){
@@ -330,7 +340,7 @@ ash1() {
 			    echo 
 			    echo -e "\e[96m==================================\e[92m VICTIM INFORMATION \e[96m=================================== \e[93m"  
 			    echo 
-			    echo -e "\e[96m==================================\e[92m    SUMAN © 2021    \e[96m===================================\e[92m"
+			    echo -e "\e[96m==================================\e[92m    Samu330 © 2021    \e[96m===================================\e[92m"
 			    echo
 			    touch pass.txt >> /dev/null 2>&1
 			    tail -f pass.txt '
@@ -363,7 +373,7 @@ ash1() {
 			   echo 
 			   echo -e "\e[96m==================================\e[92m VICTIM INFORMATION \e[96m=================================== \e[93m"  
 			   echo 
-			   echo -e "\e[96m==================================\e[92m    SUMAN © 2021    \e[96m=================================== \e[92m"
+			   echo -e "\e[96m==================================\e[92m    Samu330 © 2021    \e[96m=================================== \e[92m"
                            echo 
                            tail -f onlinehacking.txt | grep -e "id" -e "password"  '
 
