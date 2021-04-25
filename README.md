@@ -1,2 +1,1 @@
-# hackFFps
-Phishing FreeFire @Samu330
+# How to Install Open Link : https://www.onlinehacking.xyz/FreeFireID-Hack
